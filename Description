@@ -1,0 +1,4 @@
+We made a game for elementary school students to learn basic concepts of coding in python. 
+We had 3 levels of game teaching students a single concept with interactive animation and knowledge through a small quiz at last. Me and my teammate developed it in python. 
+1st level had variables, 2nd level had loops and 3rd level had user-defined functions. 
+Important each level must be passed by giving answer correct, before moving on to next level. 
